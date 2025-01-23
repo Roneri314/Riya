@@ -59,7 +59,7 @@ const store = makeInMemoryStore({
 async function startA17() {
   console.log(
     color(
-      figlet.textSync("Plana", {
+      figlet.textSync("Riya", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
