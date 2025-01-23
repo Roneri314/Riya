@@ -21,8 +21,8 @@ global.Owner = ["249115612883"];         //If you want singal number so global.O
 global.OwnerNumber = ["249119673008"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
 global.ownertag = ["249119673008"];
 global.OwnerName = "Roneri";
-global.BotName = "Ranni";
-global.packname = "Ranni";                             //Do not change.
+global.BotName = "Riya";
+global.packname = "Riya";                             //Do not change.
 global.author = "By: Aln Roneri";                               //Do not change.
 global.BotSourceCode = "https://github.com/ahil15/Xlicon-v2"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/EjsQvJNcFGVCSfaBEIxZm2"; 
